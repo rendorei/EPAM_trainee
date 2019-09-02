@@ -1,0 +1,91 @@
+Oleksandr_Krainiuk@EPUAKHAW1371 MINGW64 /d/GIT_rendorei/EPAM_trainee/task1_2_09 (develop)
+$ git reflog
+95258af (HEAD -> develop, origin/develop) HEAD@{0}: commit (merge): merged both br into dev
+fb51a42 HEAD@{1}: checkout: moving from branch2 to develop
+dc1fcdb (branch2) HEAD@{2}: checkout: moving from branch1 to branch2
+292db61 (branch1) HEAD@{3}: rebase -i (finish): returning to refs/heads/branch1
+292db61 (branch1) HEAD@{4}: rebase -i (pick): 3commit ONLY fileB
+deb8c09 HEAD@{5}: rebase -i (continue): 2commit ONLY FILE2 in branch1_mv_bw_1&3
+e478da0 HEAD@{6}: rebase -i (continue): part2_rebased_returned_to_branch1_bw1&3
+fd09bdb HEAD@{7}: rebase -i (start): checkout HEAD~3
+ae19697 HEAD@{8}: rebase -i (finish): returning to refs/heads/branch1
+ae19697 HEAD@{9}: rebase -i (start): checkout HEAD~2
+ae19697 HEAD@{10}: rebase -i (finish): returning to refs/heads/branch1
+ae19697 HEAD@{11}: rebase -i (start): checkout HEAD~1
+ae19697 HEAD@{12}: commit (cherry-pick): part2_rebased_returned_to_branch1
+cf1f7bf (origin/branch1) HEAD@{13}: checkout: moving from branch2 to branch1
+dc1fcdb (branch2) HEAD@{14}: rebase -i (finish): returning to refs/heads/branch2
+dc1fcdb (branch2) HEAD@{15}: rebase -i (squash): squashed commit in br2
+c92e12d HEAD@{16}: rebase -i (pick): 3commit in branch2
+a49945c HEAD@{17}: rebase -i (pick): part1_rebased_moved_to_br2
+6646f68 HEAD@{18}: rebase -i (start): checkout HEAD~4
+2463c29 HEAD@{19}: commit (cherry-pick): part1_rebased_moved_to_br2
+1eef733 (origin/branch2) HEAD@{20}: checkout: moving from branch1 to branch2
+cf1f7bf (origin/branch1) HEAD@{21}: checkout: moving from f03a4f343552ea14b2a7ca45e778ab5d58d0c6c5 to branch1
+f03a4f3 HEAD@{22}: commit: part2_rebased
+2e7abff HEAD@{23}: commit: part1_rebased
+fd09bdb HEAD@{24}: reset: moving to HEAD^
+aeb6a9b HEAD@{25}: rebase -i: fast-forward
+fd09bdb HEAD@{26}: rebase -i (start): checkout HEAD^
+aeb6a9b HEAD@{27}: checkout: moving from branch1 to aeb6a9b06b90293be7b77a9b73768332a1c5cad2
+cf1f7bf (origin/branch1) HEAD@{28}: checkout: moving from develop to branch1
+fb51a42 HEAD@{29}: commit: file2dev.txt
+310cee8 HEAD@{30}: commit: file1dev.txt
+918197c HEAD@{31}: checkout: moving from branch2 to develop
+1eef733 (origin/branch2) HEAD@{32}: commit: 4commit in branch2
+ece5929 HEAD@{33}: commit: 3commit in branch2
+6646f68 HEAD@{34}: commit: 2commit in branch 2
+1960b75 HEAD@{35}: commit: 1commit in branch2
+918197c HEAD@{36}: checkout: moving from develop to branch2
+918197c HEAD@{37}: checkout: moving from branch1 to develop
+cf1f7bf (origin/branch1) HEAD@{38}: commit: 3commit ONLY fileB
+aeb6a9b HEAD@{39}: commit: 2commit ONLY FILE2 in branch1
+fd09bdb HEAD@{40}: commit: 1commit in branch1
+:...skipping...
+95258af (HEAD -> develop, origin/develop) HEAD@{0}: commit (merge): merged both br into dev
+fb51a42 HEAD@{1}: checkout: moving from branch2 to develop
+dc1fcdb (branch2) HEAD@{2}: checkout: moving from branch1 to branch2
+292db61 (branch1) HEAD@{3}: rebase -i (finish): returning to refs/heads/branch1
+292db61 (branch1) HEAD@{4}: rebase -i (pick): 3commit ONLY fileB
+deb8c09 HEAD@{5}: rebase -i (continue): 2commit ONLY FILE2 in branch1_mv_bw_1&3
+e478da0 HEAD@{6}: rebase -i (continue): part2_rebased_returned_to_branch1_bw1&3
+fd09bdb HEAD@{7}: rebase -i (start): checkout HEAD~3
+ae19697 HEAD@{8}: rebase -i (finish): returning to refs/heads/branch1
+ae19697 HEAD@{9}: rebase -i (start): checkout HEAD~2
+ae19697 HEAD@{10}: rebase -i (finish): returning to refs/heads/branch1
+ae19697 HEAD@{11}: rebase -i (start): checkout HEAD~1
+ae19697 HEAD@{12}: commit (cherry-pick): part2_rebased_returned_to_branch1
+cf1f7bf (origin/branch1) HEAD@{13}: checkout: moving from branch2 to branch1
+dc1fcdb (branch2) HEAD@{14}: rebase -i (finish): returning to refs/heads/branch2
+dc1fcdb (branch2) HEAD@{15}: rebase -i (squash): squashed commit in br2
+c92e12d HEAD@{16}: rebase -i (pick): 3commit in branch2
+a49945c HEAD@{17}: rebase -i (pick): part1_rebased_moved_to_br2
+6646f68 HEAD@{18}: rebase -i (start): checkout HEAD~4
+2463c29 HEAD@{19}: commit (cherry-pick): part1_rebased_moved_to_br2
+1eef733 (origin/branch2) HEAD@{20}: checkout: moving from branch1 to branch2
+cf1f7bf (origin/branch1) HEAD@{21}: checkout: moving from f03a4f343552ea14b2a7ca45e778ab5d58d0c6c5 to branch1
+f03a4f3 HEAD@{22}: commit: part2_rebased
+2e7abff HEAD@{23}: commit: part1_rebased
+fd09bdb HEAD@{24}: reset: moving to HEAD^
+aeb6a9b HEAD@{25}: rebase -i: fast-forward
+fd09bdb HEAD@{26}: rebase -i (start): checkout HEAD^
+aeb6a9b HEAD@{27}: checkout: moving from branch1 to aeb6a9b06b90293be7b77a9b73768332a1c5cad2
+cf1f7bf (origin/branch1) HEAD@{28}: checkout: moving from develop to branch1
+fb51a42 HEAD@{29}: commit: file2dev.txt
+310cee8 HEAD@{30}: commit: file1dev.txt
+918197c HEAD@{31}: checkout: moving from branch2 to develop
+1eef733 (origin/branch2) HEAD@{32}: commit: 4commit in branch2
+ece5929 HEAD@{33}: commit: 3commit in branch2
+6646f68 HEAD@{34}: commit: 2commit in branch 2
+1960b75 HEAD@{35}: commit: 1commit in branch2
+918197c HEAD@{36}: checkout: moving from develop to branch2
+918197c HEAD@{37}: checkout: moving from branch1 to develop
+cf1f7bf (origin/branch1) HEAD@{38}: commit: 3commit ONLY fileB
+aeb6a9b HEAD@{39}: commit: 2commit ONLY FILE2 in branch1
+fd09bdb HEAD@{40}: commit: 1commit in branch1
+918197c HEAD@{41}: checkout: moving from develop to branch1
+918197c HEAD@{42}: commit: 3commit
+bff6f27 HEAD@{43}: commit: 1st changes in dev br
+6eec45e (origin/master, origin/HEAD, master) HEAD@{44}: checkout: moving from master to develop
+6eec45e (origin/master, origin/HEAD, master) HEAD@{45}: commit: 2commit
+4876aac HEAD@{46}: commit: 1commit
