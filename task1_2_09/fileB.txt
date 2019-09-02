@@ -1,1 +1,2 @@
 1) added changes in branch1
+2) added changes ONLY in fileB branch1
