@@ -4,7 +4,7 @@
 ## Step 1
 1. Doing all commits up to scheme;
 
-https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/IMG_20190904_112830.jpg
+![Scheme](https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/IMG_20190904_112830.jpg)
 
 2. Checkout to "ONLY FileA" commit;
 
@@ -26,4 +26,4 @@ https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/IMG_20190904_112
 
 2. Merging three branches into one (branch1 -> develop <- branch2).
 
-https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/Capture.PNG
+![Colored](https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/Capture.PNG)
