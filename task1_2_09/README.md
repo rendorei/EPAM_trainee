@@ -5,7 +5,7 @@
 ## Step 1
 1. Doing all commits up to scheme;
 
-![Scheme](https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/IMG_20190904_112830.jpg | height=600 width=400)
+![Scheme](https://github.com/rendorei/EPAM_trainee/blob/master/task1_2_09/IMG_20190904_112830.jpg =250x250)
 
 2. Checkout to "ONLY FileA" commit;
 
