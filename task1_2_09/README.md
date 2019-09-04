@@ -1,5 +1,5 @@
 # Extra GIT task 2/09/2019
-*Task is done in the GITHub repository in case of non-availability of EPAM-GITlab*
+*Task is done in the GITHub repository in case of maitenance on EPAM-GITlab*
 *[Git Repository](https://github.com/rendorei/EPAM_trainee/tree/develop/task1_2_09)*
 
 ## Step 1
